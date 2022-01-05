@@ -1,3 +1,0 @@
-displayName = Frontier Wildlands
-author = Toyota, Blossom, and the others
-version = 0.1
