@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jNC/sJsUivRZB9GKtJzfX+ADQQh8GS3YRFXCyith32E4Imts4MYcNzkNJMjw7M7pLhTzU+Ty2BWTvYGJj0Y/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cress\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BlossomBeloved\\BlossomBeloved.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cress\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

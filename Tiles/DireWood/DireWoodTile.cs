@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework;
 
 namespace BlossomBeloved.Content.Tiles.DireWood
 {
-    public class DireWood : ModTile;
+    public class DireWood : ModTile
     {
         
     }
